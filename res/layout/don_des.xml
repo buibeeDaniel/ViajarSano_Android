@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<!-- saved from url=(0014)about:internet -->
+<centros>
+	<centro>
+		<comunidad>COMUNIDAD AUTONOMA DE CANARIAS</comunidad>
+		<titulo>Unidad de Enfermedades Infecciosas y Medicina Tropical****Hospital Insular</titulo>
+		<direccion>Plaza Dr. Pasteur s/n</direccion>
+		<cp>35016 - Las Palmas de Gran Canaria</cp>
+		<tel>TFNO.: 928 44 12 51</tel>
+		<enlace>http://www.gobiernodecanarias.org/sanidad/scs/menuestru/index.jsp</enlace>
+	</centro>
+	<centro>
+		<comunidad>COMUNIDAD AUTONOMA DE CATALUNYA</comunidad>
+		<titulo>Hospital Clínico de Barcelona****Unidad de Medicina Tropical.</titulo>
+		<direccion>C/ Villarroel, 170</direccion>
+		<cp>08036 - Barcelona.</cp>
+		<tel>TFNO.: 932 27 54 00</tel>
+		<enlace>http://www.hospitalclinic.org/</enlace>
+	</centro>
+	<centro>
+		<comunidad>COMUNIDAD AUTONOMA DE CATALUNYA</comunidad>
+		<titulo>Sanidad Exterior. Centro de Vacunación Internacional****Centro de Atención Primaria de Drassanes.</titulo>
+		<direccion>Avda. Drassanes, 17-21 - 2ª planta.</direccion>
+		<cp>08001 - Barcelona.</cp>
+		<tel>TFNO.: 934 43 05 07</tel>
+		<enlace>null</enlace>
+	</centro>
+	<centro>
+		<comunidad>COMUNIDAD AUTONOMA DE MADRID</comunidad>
+		<titulo>Hospital Carlos III****Consulta de Medicina Tropical y de Consejos a Viajeros****Instituto de Salud Carlos III</titulo>
+		<direccion>C/ Sinesio Delgado 10-12</direccion>
+		<cp>28029 - Madrid****Ligadas directamente al Laboratorio de Referencia de Malaria del Centro Nacional de Microbiología</cp>
+		<tel>TFNO.: 914 53 25 00</tel>
+		<enlace>http://www.hcarlosiii.com/</enlace>
+	</centro>
+	<centro>
+		<comunidad>COMUNIDAD AUTONOMA DE MADRID</comunidad>
+		<titulo>Hospital Príncipe de Asturias</titulo>
+		<direccion>Alcalá de Henares. Ctra. Alcalá - Meco s/n.</direccion>
+		<cp>28880 - Madrid</cp>
+		<tel>TFNO.: 918 87 81 00</tel>
+		<enlace>http://www.msc.es/ciudadanos/prestaciones/centrosServiciosSNS/hospitales/busquedaCA/detalleCentroSanitario.jsp?id=280745</enlace>
+	</centro>
+	<centro>
+		<comunidad>COMUNIDAD AUTONOMA DE MADRID</comunidad>
+		<titulo>Hospital Ramón y Cajal****Unidad de Medicina Tropical</titulo>
+		<direccion>Ctra. Colmenar Viejo, km 9´1</direccion>
+		<cp>28034 - Madrid.</cp>
+		<tel>TFNO.: 913 36 81 08</tel>
+		<enlace>http://www.hrc.es/</enlace>
+	</centro>
+	<centro>
+		<comunidad>COMUNIDAD AUTONOMA DE MADRID</comunidad>
+		<titulo>Fundación Jiménez Díaz****Consulta Médica del Viajero</titulo>
+		<direccion>Avda. Reyes Católicos, 2</direccion>
+		<cp>28040 - Madrid.</cp>
+		<tel>TFNO.: 915 49 40 39</tel>
+		<enlace>http://www.fjd.es/</enlace>
+	</centro>
+	<centro>
+		<comunidad>COMUNIDAD VALENCIANA</comunidad>
+		<titulo>Atención y Consejo al viajero****Hospital General Universitario de Valencia</titulo>
+		<direccion>Avda. Tres Cruces, s/n.</direccion>
+		<cp>46014 - Valencia</cp>
+		<tel>TFNO.: 961 97 20 47</tel>
+		<enlace>http://www2.san.gva.es/hguv/html/Principal/SetReparto.asp?opcion=28</enlace>
+	</centro>
+	<centro>
+		<comunidad>COMUNIDAD VALENCIANA</comunidad>
+		<titulo>Hospital General Universitario de Alicante****Consulta de Enfermedades Importadas y Parasitología Clínica</titulo>
+		<direccion>C/ Pintor Baeza, s/n.</direccion>
+		<cp>03010 - Alicante</cp>
+		<tel>TFNO.: 965 93 79 06</tel>
+		<enlace>null</enlace>
+	</centro>
+	<centro>
+		<comunidad>PAIS VASCO</comunidad>
+		<titulo>Hospital de Basurto****Unidad de Enfermedades Tropicales</titulo>
+		<direccion>Sección de Enfermedades Infecciosas</direccion>
+		<cp>Avda. Montevideo, 18 (Bilbao)</cp>
+		<tel>TFNO.: 944 00 60 00</tel>
+		<enlace>http://www.hospitalbasurto.com</enlace>
+	</centro>
+</centros>

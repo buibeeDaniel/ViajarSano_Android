@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+  	android:layout_width="match_parent"
+  	android:layout_height="match_parent"
+  	android:orientation="vertical" android:background="@drawable/fondo" android:gravity="center">
+ 
+	<!-- Cabecera  -->	  
+	<LinearLayout 
+		android:layout_width="fill_parent"
+		android:layout_height="30dip"
+		android:gravity="left"  
+		android:id="@+id/lfiestaprov"
+		android:background="@drawable/fondomenu"
+	/> 	
+  	
+  	<!-- Separador -->
+  	<LinearLayout
+  		android:layout_width="match_parent"
+  		android:layout_height="44dip"
+  		android:orientation="horizontal"
+  		android:gravity = "center|right"
+  		android:background="@drawable/fondoseparador">
+  		
+  	
+  		<!-- Botón Valoradas -->
+  		<LinearLayout android:paddingTop="1dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:paddingRight="1dip" android:paddingLeft="1dip">
+      		<ImageButton android:id="@+id/valoradasranking" android:layout_height="25dip" android:layout_width="wrap_content" android:background="@layout/selec_ranking_valoradas"></ImageButton>
+    	</LinearLayout>
+    	
+    	<!-- Botón Asistencia -->
+    	<LinearLayout android:paddingTop="1dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:paddingRight="1dip">
+      		<ImageButton android:id="@+id/asistenciaranking" android:layout_height="25dip" android:layout_width="wrap_content" android:background="@layout/selec_ranking_asistencia"></ImageButton>
+    	</LinearLayout>
+    	
+    	<!-- Botón Social -->
+    	<LinearLayout android:paddingTop="1dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:paddingRight="1dip">
+      		<ImageButton android:id="@+id/socialranking"  android:layout_height="25dip" android:layout_width="wrap_content" android:background="@layout/selec_ranking_social"></ImageButton>
+		</LinearLayout>
+  	</LinearLayout>
+	
+	<!-- Titular de la pantalla -->	   
+    <LinearLayout android:paddingTop="10dip" android:paddingBottom="10dip" android:orientation="horizontal" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content">
+    	<TextView android:textColor="#FFFFFF" android:gravity="center" android:textSize="13dip" android:text="@string/enfermedades_titular" android:id="@+id/cabeceraranking" android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+    </LinearLayout>
+     
+    <!-- Listado y Menú -->
+    <LinearLayout
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:orientation="vertical"
+		android:baselineAligned="true"  
+		android:gravity="bottom"
+		android:id="@+id/menuprov">
+		
+		<ImageView android:layout_width="fill_parent" android:layout_height="1px" android:background="@drawable/fondoseparadorlistado" android:src="@drawable/fondoseparadorlistado"></ImageView>
+    	<ListView android:dividerHeight="1px" android:divider="@drawable/fondoseparadorlistado" android:layout_weight="0.95" android:id="@android:id/list" android:layout_height="wrap_content" android:layout_width="fill_parent" android:drawSelectorOnTop="false" android:listSelector="@drawable/fondoseparador" android:cacheColorHint="#00000000">
+    	</ListView>
+    	<util.Menu
+	    	android:layout_width="fill_parent" 
+		    android:layout_height="wrap_content" 
+		    android:layout_gravity="bottom"
+		    android:orientation="horizontal"  /> 
+    </LinearLayout>
+    	
+</LinearLayout>

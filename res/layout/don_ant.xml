@@ -1,0 +1,454 @@
+<?xml version="1.0"?>
+<!-- saved from url=(0014)about:internet -->
+<centros>
+	<centro>
+		<comunidad>ANDALUCIA</comunidad>
+		<ciudad>ALMERÍA</ciudad>
+		<titulo>SERVICIO ANDALUZ DE SALUD (S.A.S.)</titulo>
+		<direccion>Ctra.de Ronda, 101</direccion>
+		<cp>04071 - ALMERÍA</cp>
+		<tel>TFNO.: 950 01 36 00 (Centralita) - 950 75 92 51 (Vacunas)</tel>
+		<enlace>null</enlace>
+	</centro>
+	<centro>
+		<comunidad>ANDALUCIA</comunidad>
+		<ciudad>ALGECIRAS</ciudad>
+		<titulo>SANIDAD EXTERIOR****CENTRO DE VACUNACIÓN INTERNACIONAL</titulo>
+		<direccion>Pº de la Conferencia, s/n.</direccion>
+		<cp>11207 - ALGECIRAS (CÁDIZ)</cp>
+		<tel>TFNO.: 956 98 92 52/53</tel>
+		<enlace>null</enlace>
+	</centro>
+	<centro>
+		<comunidad>ANDALUCIA</comunidad>
+		<ciudad>CÁDIZ</ciudad>
+		<titulo>SANIDAD EXTERIOR****CENTRO DE VACUNACIÓN INTERNACIONAL</titulo>
+		<direccion>C/ Ciudad de Vigo, s/n. (Recinto Portuario)</direccion>
+		<cp>11006 - CÁDIZ</cp>
+		<tel>TFNO.: 956 98 92 21/24</tel>
+		<enlace>null</enlace>
+	</centro>
+	<centro>
+		<comunidad>ANDALUCIA</comunidad>
+		<ciudad>GRANADA</ciudad>
+		<titulo>HOSPITAL UNIVERSITARIO VIRGEN DE LAS NIEVES****Servicio de Medicina Preventiva</titulo>
+		<direccion>Avda. Fuerzas Armadas, 2</direccion>
+		<cp>18014 - GRANADA</cp>
+		<tel>TFNO.: 958 02 01 23</tel>
+		<enlace>null</enlace>
+	</centro>
+	<centro>
+		<comunidad>ANDALUCIA</comunidad>
+		<ciudad>HUELVA</ciudad>
+		<titulo>SANIDAD EXTERIOR****CENTRO DE VACUNACIÓN INTERNACIONAL</titulo>
+		<direccion>C/ Sanlúcar de Barrameda, 7</direccion>
+		<cp>21001 - HUELVA</cp>
+		<tel>TFNO.: 959 75 90 60/63/64</tel>
+		<enlace>null</enlace>
+	</centro>
+	<centro>
+		<comunidad>ANDALUCIA</comunidad>
+		<ciudad>MÁLAGA</ciudad>
+		<titulo>SANIDAD EXTERIOR****CENTRO DE VACUNACIÓN INTERNACIONAL</titulo>
+		<direccion>Pº Marítimo Pablo Ruiz Picasso, 43</direccion>
+		<cp>29016 - MÁLAGA</cp>
+		<tel>TFNO.: 952 98 90 82/81</tel>
+		<enlace>null</enlace>
+	</centro>
+	<centro>
+		<comunidad>ANDALUCIA</comunidad>
+		<ciudad>SEVILLA</ciudad>
+		<titulo>SANIDAD EXTERIOR****CENTRO DE VACUNACIÓN INTERNACIONAL</titulo>
+		<direccion>Avda. de la Raza, 2</direccion>
+		<cp>41012 - SEVILLA</cp>
+		<tel>TFNO.: 955 56 90 08</tel>
+		<enlace>null</enlace>
+	</centro>
+	<centro>
+		<comunidad>ARAGON</comunidad>
+		<ciudad>ZARAGOZA</ciudad>
+		<titulo>GERENCIA DE ÁREA DEL SERVICIO ARAGONÉS DE LA SALUD</titulo>
+		<direccion>C/ Ramón y Cajal, 68</direccion>
+		<cp>50004 - ZARAGOZA</cp>
+		<tel>TFNO.: 976 71 41 02</tel>
+		<enlace>null</enlace>
+	</centro>
+	<centro>
+		<comunidad>ARAGON</comunidad>
+		<ciudad>HUESCA</ciudad>
+		<titulo>SERVICIO PROVINCIAL DE SALUD Y CONSUMO****Subdirección de Salud Pública</titulo>
+		<direccion>Avda. del Parque, 30</direccion>
+		<cp>22003 - HUESCA</cp>
+		<tel>TFNO.: 974 29 33 88</tel>
+		<enlace>null</enlace>
+	</centro>
+	<centro>
+		<comunidad>ARAGON</comunidad>
+		<ciudad>TERUEL</ciudad>
+		<titulo>SERVICIO PROVINCIAL DE SALUD Y CONSUMO****Subdirección de Salud Pública</titulo>
+		<direccion>Ronda de Liberación, 1</direccion>
+		<cp>44002 - TERUEL</cp>
+		<tel>TFNO.: 978 64 11 57</tel>
+		<enlace>null</enlace>
+	</centro>
+	<centro>
+		<comunidad>GALICIA</comunidad>
+		<ciudad>A CORUÑA</ciudad>
+		<titulo>SANIDAD EXTERIOR****CENTRO DE VACUNACIÓN INTERNACIONAL</titulo>
+		<direccion>C/ Durán Lóriga, 3. - 5ª Planta</direccion>
+		<cp>15003 - A CORUÑA</cp>
+		<tel>TFNO.: 981 98 95 70/71</tel>
+		<enlace>null</enlace>
+	</centro>
+	<centro>
+		<comunidad>GALICIA</comunidad>
+		<ciudad>VIGO (Pontevedra)</ciudad>
+		<titulo>SANIDAD EXTERIOR****CENTRO DE VACUNACIÓN INTERNACIONAL</titulo>
+		<direccion>Estación Marítima del Puerto de Vigo</direccion>
+		<cp>36201 - VIGO (Pontevedra)</cp>
+		<tel>TFNO.: 986 98 91 60/61/51</tel>
+		<enlace>null</enlace>
+	</centro>
+	<centro>
+		<comunidad>ISLAS BALEARES</comunidad>
+		<ciudad>IBIZA</ciudad>
+		<titulo>SANIDAD EXTERIOR****CENTRO DE VACUNACIÓN INTERNACIONAL****CONSELLERIA DE SANIDAD</titulo>
+		<direccion>Vía Romana, 81</direccion>
+		<cp>07800 - IBIZA</cp>
+		<tel>TFNO.: 971 30 67 64/00</tel>
+		<enlace>null</enlace>
+	</centro>
+	<centro>
+		<comunidad>ISLAS BALEARES</comunidad>
+		<ciudad>MAHÓN</ciudad>
+		<titulo>CENTRO INSULAR DE SANIDAD DE MENORCA</titulo>
+		<direccion>Avda. José Mª Cuadrado, 17</direccion>
+		<cp>07703 - MAHÓN (Menorca)</cp>
+		<tel>TFNO.: 971 36 04 26 - 971 36 87 03</tel>
+		<enlace>null</enlace>
+	</centro>
+	<centro>
+		<comunidad>ISLAS BALEARES</comunidad>
+		<ciudad>PALMA DE MALLORCA</ciudad>
+		<titulo>SANIDAD EXTERIOR****CENTRO DE VACUNACIÓN INTERNACIONAL</titulo>
+		<direccion>C/ Muelle Viejo, 7</direccion>
+		<cp>07071 - PALMA DE MALLORCA</cp>
+		<tel>TFNO.: 971 98 92 54/59</tel>
+		<enlace>null</enlace>
+	</centro>
+	<centro>
+		<comunidad>CATALUNYA</comunidad>
+		<ciudad>BARCELONA</ciudad>
+		<titulo>SANIDAD EXTERIOR****CENTRO DE VACUNACIÓN INTERNACIONAL</titulo>
+		<direccion>C/ Bergara, 12 (Edificio Bergara)</direccion>
+		<cp>08002 - BARCELONA</cp>
+		<tel>TFNO.: 935 20 96 63</tel>
+		<enlace>null</enlace>
+	</centro>
+	<centro>
+		<comunidad>CATALUNYA</comunidad>
+		<ciudad>BARCELONA-DRASSANES</ciudad>
+		<titulo>UNIDAD DE MEDICINA TROPICAL Y SALUD INTERNACIONAL DRASSANES</titulo>
+		<direccion>Avda. Drassanes, 17-21 - 2ª planta.</direccion>
+		<cp>08001 - BARCELONA</cp>
+		<tel>TFNO.: 933 27 05 50 (tardes, de 15:00 a 19:00 h.)</tel>
+		<enlace>null</enlace>
+	</centro>
+	<centro>
+		<comunidad>CATALUNYA</comunidad>
+		<ciudad>BARCELONA-BELLVITGE</ciudad>
+		<titulo>HOSPITAL DE BELLVITGE (Medicina Preventiva)</titulo>
+		<direccion>C/ Feixa Llarga, s/n.</direccion>
+		<cp>08907 - Hospitalet de Llobregat (BARCELONA)</cp>
+		<tel>TFNO.: 932 60 75 57 ( Lunes a viernes, de 8:30 a 14:00h.)****TFNO.: 932 60 76 40 (Lunes a jueves, de 15:30 a 19:00h.)</tel>
+		<enlace>null</enlace>
+	</centro>
+	<centro>
+		<comunidad>CATALUNYA</comunidad>
+		<ciudad>BARCELONA-CLÍNIC</ciudad>
+		<titulo>CENTRO DE VACUNACIÓN INTERNACIONAL****HOSPITAL CLÍNIC</titulo>
+		<direccion>C/ Rosellón, 163. 5ª Planta</direccion>
+		<cp>08036 - BARCELONA</cp>
+		<tel>TFNO.: 932 27 54 07/86</tel>
+		<enlace>null</enlace>
+	</centro>
+	<centro>
+		<comunidad>CATALUNYA</comunidad>
+		<ciudad>BARCELONA-VALL D’HEBRON</ciudad>
+		<titulo>HOSPITAL UNIVERSITARIO VALL D´HEBRON****Servicio de Medicina Preventiva y Epidemiología</titulo>
+		<direccion>Pº Vall d´hebron, 119-129</direccion>
+		<cp>08035- BARCELONA</cp>
+		<tel>TFNO.: 934 89 42 14 - 934 89 41 11</tel>
+		<enlace>null</enlace>
+	</centro>
+	<centro>
+		<comunidad>CATALUNYA</comunidad>
+		<ciudad>BARCELONA-SABADELL</ciudad>
+		<titulo>HOSPITAL DE SABADELL****Unidad de Atención al Viajero****Corporación Sanitaria del Parc Taulí</titulo>
+		<direccion>Parc Taulí, s/n.</direccion>
+		<cp>08208 - SABADELL (BARCELONA)</cp>
+		<tel>TFNO.: 937 23 10 10</tel>
+		<enlace>null</enlace>
+	</centro>
+	<centro>
+		<comunidad>CATALUNYA</comunidad>
+		<ciudad>BARCELONA-STA.COLOMA DE GRAMANET</ciudad>
+		<titulo>UNIDAD DE SALUD INTERNACIONAL DEL BARCELONÉS NORD I MARESME</titulo>
+		<direccion>C/Mossén  Jacint Verdaguer, 118****Edificio CAP EL Fondo - 2ª Planta</direccion>
+		<cp>08923 - STA.COLOMA DE GRAMANET (BARCELONA)</cp>
+		<tel>TFNO.: </tel>
+		<enlace>null</enlace>
+	</centro>	
+	<centro>
+		<comunidad>CATALUNYA</comunidad>
+		<ciudad>GIRONA</ciudad>
+		<titulo>DELEGACION TERRITORIAL DE SANIDAD Y SEGURIDAD SOCIAL****Hospital de Santa Caterina</titulo>
+		<direccion>C/ Dr. Castany, s/n.</direccion>
+		<cp>17002 - GIRONA</cp>
+		<tel>TFNO.: 972 18 26 00</tel>
+		<enlace>null</enlace>
+	</centro>
+	<centro>
+		<comunidad>CATALUNYA</comunidad>
+		<ciudad>LLEIDA</ciudad>
+		<titulo>DELEGACIÓN TERRITORIAL DEL DPTO. DE SANIDAD Y****SEGURIDAD SOCIAL DE LA GENERALIDAD DE CATALUNYA</titulo>
+		<direccion>C/ Rovira Roure, 2</direccion>
+		<cp>25006 - LLEIDA</cp>
+		<tel>TFNO.: 973 70 16 34/00</tel>
+		<enlace>null</enlace>
+	</centro>
+	<centro>
+		<comunidad>CATALUNYA</comunidad>
+		<ciudad>TARRAGONA</ciudad>
+		<titulo>SANIDAD EXTERIOR****CENTRO DE VACUNACIÓN INTERNACIONAL</titulo>
+		<direccion>Pº de la Escollera, s/n, Puerto</direccion>
+		<cp>43071 - TARRAGONA</cp>
+		<tel>TFNO.: 977 99 90 80</tel>
+		<enlace>null</enlace>
+	</centro>
+	<centro>
+		<comunidad>CANTABRIA</comunidad>
+		<ciudad>SANTANDER</ciudad>
+		<titulo>SANIDAD EXTERIOR****CENTRO DE VACUNACIÓN INTERNACIONAL</titulo>
+		<direccion>C/ Antonio López, 3****(Acceso por el final de la calle Ruiz de Alda)</direccion>
+		<cp>39009 - SANTANDER</cp>
+		<tel>TFNO.: 942 99 90 62/60/70</tel>
+		<enlace>null</enlace>
+	</centro>
+	<centro>
+		<comunidad>CANARIAS</comunidad>
+		<ciudad>LANZAROTE (Arrecife)</ciudad>
+		<titulo>DIRECCIÓN INSULAR DE LA ADMINISTRACIÓN DEL ESTADO</titulo>
+		<direccion>C/ Blas Cabrera Felipe, 6</direccion>
+		<cp>35500 - LANZAROTE (Arrecife)</cp>
+		<tel>TFNO.: 928 99 10 00/15</tel>
+		<enlace>null</enlace>
+	</centro>
+	<centro>
+		<comunidad>CANARIAS</comunidad>
+		<ciudad>LAS PALMAS DE GRAN CANARIA</ciudad>
+		<titulo>SANIDAD EXTERIOR****CENTRO DE VACUNACIÓN INTERNACIONAL</titulo>
+		<direccion>C/ Juan M. Domínguez Pérez (Subida al Cebadal)</direccion>
+		<cp>35071 - LAS PALMAS DE GRAN CANARIA</cp>
+		<tel>TFNO.: 928 99 91 12/10/17/18</tel>
+		<enlace>null</enlace>
+	</centro>
+	<centro>
+		<comunidad>CANARIAS</comunidad>
+		<ciudad>SANTA CRUZ DE TENERIFE</ciudad>
+		<titulo>SANIDAD EXTERIOR****CENTRO DE VACUNACIÓN INTERNACIONAL</titulo>
+		<direccion>Rambla General Franco, 169</direccion>
+		<cp>38001 - SANTA CRUZ DE TENERIFE</cp>
+		<tel>TFNO.: 922 99 92 10</tel>
+		<enlace>null</enlace>
+	</centro>
+	<centro>
+		<comunidad>EXTREMADURA</comunidad>
+		<ciudad>BADAJOZ</ciudad>
+		<titulo>SERVICIOS TERRITORIALES****CONSEJERIA DE BIENESTAR SOCIAL</titulo>
+		<direccion>Ronda del Pilar, 22 - 3ª Planta</direccion>
+		<cp>06002 - BADAJOZ</cp>
+		<tel>TFNO.: 924 01 03 13/09</tel>
+		<enlace>null</enlace>
+	</centro>
+	<centro>
+		<comunidad>COMUNIDAD DE MADRID</comunidad>
+		<ciudad>MADRID</ciudad>
+		<titulo>SANIDAD EXTERIOR****CENTRO DE VACUNACIÓN INTERNACIONAL</titulo>
+		<direccion>C/ Francisco Silvela, 57</direccion>
+		<cp>28028 - MADRID</cp>
+		<tel>TFNO.: 91 309 56 03/23 (cita previa)****TFNO.: 91 309 18 43 - 91 309 19 26 (información)</tel>
+		<enlace>null</enlace>
+	</centro>
+	<centro>
+		<comunidad>COMUNIDAD DE MADRID</comunidad>
+		<ciudad>MADRID - CARLOS III</ciudad>
+		<titulo>CENTRO DE VACUNACION INTERNACIONAL****HOSPITAL CARLOS III</titulo>
+		<direccion>C/ Sinesio Delgado, 10</direccion>
+		<cp>28029 - MADRID</cp>
+		<tel>TFNO.: 91 453 25 00</tel>
+		<enlace>null</enlace>
+	</centro>
+	<centro>
+		<comunidad>NAVARRA</comunidad>
+		<ciudad>SANIDAD EXTERIOR</ciudad>
+		<titulo>CENTRO DE VACUNACIÓN INTERNACIONAL</titulo>
+		<direccion>C/ Iturralde y Suit, 13, 1ª Planta</direccion>
+		<cp>31004 - PAMPLONA</cp>
+		<tel>TFNO.: 948 97 93 10</tel>
+		<enlace>null</enlace>
+	</centro>
+	<centro>
+		<comunidad>COMUNIDAD VALENCIANA</comunidad>
+		<ciudad>ALICANTE</ciudad>
+		<titulo>SANIDAD EXTERIOR****CENTRO DE VACUNACIÓN INTERNACIONAL</titulo>
+		<direccion>C/ Campo de Mirra, 6</direccion>
+		<cp>03005- ALICANTE</cp>
+		<tel>TFNO.: 96 501 94 40/41/42/43/44</tel>
+		<enlace>null</enlace>
+	</centro>
+	<centro>
+		<comunidad>COMUNIDAD VALENCIANA</comunidad>
+		<ciudad>CASTELLÓN SANIDAD EXTERIOR</ciudad>
+		<titulo>CENTRO DE VACUNACIÓN INTERNACIONAL</titulo>
+		<direccion>Rotonda del Centenario, s/n.</direccion>
+		<cp>12100 - CASTELLON (GRAO)</cp>
+		<tel>TFNO.: 964 75 92 10</tel>
+		<enlace>null</enlace>
+	</centro>
+	<centro>
+		<comunidad>COMUNIDAD VALENCIANA</comunidad>
+		<ciudad>VALENCIA</ciudad>
+		<titulo>SANIDAD EXTERIOR****CENTRO DE VACUNACIÓN INTERNACIONAL</titulo>
+		<direccion>Muelle de Aduanas, s/n.****Puerto Autónomo de Valencia</direccion>
+		<cp>46071 - VALENCIA</cp>
+		<tel>TFNO.: 963 07 97 00/01/02</tel>
+		<enlace>null</enlace>
+	</centro>
+	<centro>
+		<comunidad>CIUDADES AUTONOMAS DE CEUTA Y MELILLA</comunidad>
+		<ciudad>CEUTA</ciudad>
+		<titulo>SANIDAD EXTERIOR****CENTRO DE VACUNACIÓN INTERNACIONAL</titulo>
+		<direccion>C/ San Amaro, 12</direccion>
+		<cp>51071 - CEUTA</cp>
+		<tel>TFNO.: 956 98 44 85/87</tel>
+		<enlace>null</enlace>
+	</centro>
+	<centro>
+		<comunidad>CIUDADES AUTONOMAS DE CEUTA Y MELILLA</comunidad>
+		<ciudad>MELILLA</ciudad>
+		<titulo>SANIDAD EXTERIOR****CENTRO DE VACUNACIÓN INTERNACIONAL</titulo>
+		<direccion>Avda. de la Marina Española, 3</direccion>
+		<cp>52002 - MELILLA</cp>
+		<tel>TFNO.: 952 99 12 31</tel>
+		<enlace>null</enlace>
+	</centro>
+	<centro>
+		<comunidad>LA RIOJA</comunidad>
+		<ciudad>LOGROÑO SANIDAD EXTERIOR</ciudad>
+		<titulo>CENTRO DE VACUNACIÓN INTERNACIONAL</titulo>
+		<direccion>C/ Pérez Galdós, 29</direccion>
+		<cp>26002 - LOGROÑO</cp>
+		<tel>TFNO.: 941 75 92 25/28</tel>
+		<enlace>null</enlace>
+	</centro>
+	<centro>
+		<comunidad>PAIS VASCO</comunidad>
+		<ciudad>BILBAO</ciudad>
+		<titulo>SANIDAD EXTERIOR****CENTRO DE VACUNACIÓN INTERNACIONAL</titulo>
+		<direccion>C/ Gran Vía, 62 - Portal Centro, 1ª Izda.</direccion>
+		<cp>48071 - BILBAO</cp>
+		<tel>TFNO.: 944 50 91 07</tel>
+		<enlace>null</enlace>
+	</centro>
+	<centro>
+		<comunidad>PAIS VASCO</comunidad>
+		<ciudad>SAN SEBASTIAN</ciudad>
+		<titulo>SANIDAD EXTERIOR****CENTRO DE VACUNACIÓN INTERNACIONAL</titulo>
+		<direccion>C/ Plaza de Lasala, 2 - 5ª Planta.</direccion>
+		<cp>20003 - SAN SEBASTIAN</cp>
+		<tel>TFNO.: 943 98 93 46/40</tel>
+		<enlace>null</enlace>
+	</centro>
+	<centro>
+		<comunidad>PAIS VASCO</comunidad>
+		<ciudad>VITORIA</ciudad>
+		<titulo>SANIDAD EXTERIOR****CENTRO DE VACUNACIÓN INTERNACIONAL</titulo>
+		<direccion>Avda. de Santiago, 11 - 1ª Planta.</direccion>
+		<cp>01004 - VITORIA</cp>
+		<tel>TFNO.: 945 75 94 06</tel>
+		<enlace>null</enlace>
+	</centro>
+	<centro>
+		<comunidad>ASTURIAS</comunidad>
+		<ciudad>GIJÓN</ciudad>
+		<titulo>SANIDAD EXTERIOR****CENTRO DE VACUNACIÓN INTERNACIONAL</titulo>
+		<direccion>C/ Almirante Claudio Alvargonzález, 30</direccion>
+		<cp>33201 - GIJÓN (Asturias)</cp>
+		<tel>TFNO.: 985 76 94 12/10</tel>
+		<enlace>null</enlace>
+	</centro>
+	<centro>
+		<comunidad>CASTILLA LA MANCHA</comunidad>
+		<ciudad>ALBACETE</ciudad>
+		<titulo>SANIDAD EXTERIOR****CENTRO DE VACUNACIÓN INTERNACIONAL</titulo>
+		<direccion>Avda. de España, 7</direccion>
+		<cp>02003 - ALBACETE</cp>
+		<tel>TFNO.: 967 76 92 28/27 </tel>
+		<enlace>null</enlace>
+	</centro>
+	<centro>
+		<comunidad>CASTILLA Y LEON</comunidad>
+		<ciudad>BURGOS</ciudad>
+		<titulo>SERVICIO TERRITORIAL DE SANIDAD Y BIENESTAR SOCIAL</titulo>
+		<direccion>Avda. Sierra de Atapuerca, 4</direccion>
+		<cp>09002 - BURGOS</cp>
+		<tel>TFNO.: 947 28 01 07/37</tel>
+		<enlace>null</enlace>
+	</centro>
+	<centro>
+		<comunidad>CASTILLA Y LEON</comunidad>
+		<ciudad>LEÓN</ciudad>
+		<titulo>SERVICIO TERRITORIAL DE SANIDAD Y BIENESTAR SOCIAL****EDIFICIO DE SERVICIOS MULTIPLES (JUNTA CASTILLA Y LEÓN)</titulo>
+		<direccion>Avda. de Peregrinos, s/n. - 2ª Planta</direccion>
+		<cp>24008 - LEÓN</cp>
+		<tel>TFNO.: 987 29 62 55 - 987 29 69 41</tel>
+		<enlace>null</enlace>
+	</centro>
+	<centro>
+		<comunidad>CASTILLA Y LEON</comunidad>
+		<ciudad>SALAMANCA</ciudad>
+		<titulo>SERVICIO TERRITORIAL DE SANIDAD Y BIENESTAR SOCIAL</titulo>
+		<direccion>Avda. de Portugal, 83-89</direccion>
+		<cp>37071 - SALAMANCA</cp>
+		<tel>TFNO.: 923 29 60 22 - 923 29 67 09</tel>
+		<enlace>null</enlace>
+	</centro>
+	<centro>
+		<comunidad>CASTILLA Y LEON</comunidad>
+		<ciudad>VALLADOLID</ciudad>
+		<titulo>SERVICIO TERRITORIAL DE SANIDAD Y BIENESTAR SOCIAL</titulo>
+		<direccion>Avda. Ramón y Cajal, 6</direccion>
+		<cp>47001 - VALLADOLID</cp>
+		<tel>TFNO.: 983 41 37 60 (Centralita) /83 (Vacunas) /84</tel>
+		<enlace>null</enlace>
+	</centro>
+	<centro>
+		<comunidad>REGION DE MURCIA</comunidad>
+		<ciudad>CARTAGENA</ciudad>
+		<titulo>SANIDAD EXTERIOR****CENTRO DE VACUNACIÓN INTERNACIONAL****Estación Sanitaria del Puerto</titulo>
+		<direccion>C/ Pez Volador, 2</direccion>
+		<cp>30271 - CARTAGENA (Murcia)</cp>
+		<tel>TFNO.: 968 98 10 00/02</tel>
+		<enlace>null</enlace>
+	</centro>
+	<centro>
+		<comunidad>REGION DE MURCIA</comunidad>
+		<ciudad>MURCIA</ciudad>
+		<titulo>SANIDAD EXTERIOR****CENTRO DE VACUNACIÓN INTERNACIONAL</titulo>
+		<direccion>C/ Andrés Vaquero, 10 - 2º Izda.</direccion>
+		<cp>30001 - MURCIA</cp>
+		<tel>TFNO.: 968 98 90 73/70</tel>
+		<enlace>null</enlace>
+	</centro>
+</centros>

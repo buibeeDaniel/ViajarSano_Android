@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ 
+    <string name="app_name">Viajar Sano</string>
+    
+    <string name="continentes_titular">SELECCIONA UN CONTINENTE</string>
+    <string name="paises_titular">SELECCIONA UN PAIS</string>
+	<string name="error_listado_explicacion">No se puede mostrar el siguiente contenido debido a un error en la conexión a la base de datos.</string>
+  	<string name="enfermedades_titular">ENFERMEDADES</string>
+  	   
+  	 <!-- URL -->
+    <string name="URLServidor">http://www.buibee.com/downloads/</string>
+    
+    <!-- SECCIÓN DESCARGAS -->
+    <string name="PDFno">No existe programa asociado para la lectura de PDFs</string> 
+    <string name="URLDescargasAfrica">fantasma.pdf</string> 
+    <string name="URLDescargasAsia">fantasma.pdf</string> 
+    <string name="URLDescargasAmerica">fantasma.pdf</string> 
+    <string name="URLDescargasEuropa">fantasma.pdf</string> 
+    <string name="URLDescargasOceania">fantasma.pdf</string> 
+    
+        
+</resources>
